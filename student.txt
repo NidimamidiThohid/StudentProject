@@ -1,0 +1,6 @@
+Student                     Course
+--------                  --------------
+
+Tauheed                      Java
+Sai                          Python
+                   
